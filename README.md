@@ -1,4 +1,4 @@
-# AsterCore Physics
+# AsterCore Physics (Jolt's fork)
 
 A multi core friendly rigid body physics and collision detection library. Suitable for games and VR applications.
 
